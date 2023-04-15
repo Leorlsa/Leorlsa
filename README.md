@@ -43,8 +43,8 @@
 ![Colab](https://img.shields.io/badge/-Colab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
 
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leorlsa}/count.svg" /></p> 
+<br><p align="centre">Já se passaram por aqui<b></b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leorlsa}/count.svg" /> Pessoas.</p> 
 <br></div>
   
 
