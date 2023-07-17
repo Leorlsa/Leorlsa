@@ -41,11 +41,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
-
-  <div align="center">
-<br><p align="centre">Já se passaram por aqui<b></b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leorlsa}/count.svg" /> Pessoas.</p> 
-<br></div>
+![NodeJs](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
+  
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
